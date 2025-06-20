@@ -13,3 +13,17 @@ body{
     padding: 2px;
     padding-left: 5px;
 }
+footer {
+    background-color: green;
+    padding: 10px;
+}
+footer a,
+a:visited
+a:active {
+    text-decoration: none;
+    color: inherit;
+    text-transform: capitalize;
+}
+a:hover {
+    text-decoration: none;
+}
